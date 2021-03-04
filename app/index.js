@@ -1,19 +1,9 @@
-/**
- * Application entry point
- */
 
-// Load application styles
 import 'scss/_index.scss';
 
-// ================================
-// START YOUR APP HERE
-// ================================
 document.addEventListener("DOMContentLoaded", (event) => {
 
-    // 1. Search Form
-    // 2. Listen to search event
-    // 3. Make an API call
-    // 4. Render it in UI
+    
 
     (function () {
 
